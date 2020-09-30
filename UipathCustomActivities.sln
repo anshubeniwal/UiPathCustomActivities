@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UipathCustomActivities", "UipathCustomActivities\UipathCustomActivities.csproj", "{10AEFB13-DF2F-462A-B176-A5E7F329D84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10AEFB13-DF2F-462A-B176-A5E7F329D84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AEFB13-DF2F-462A-B176-A5E7F329D84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AEFB13-DF2F-462A-B176-A5E7F329D84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AEFB13-DF2F-462A-B176-A5E7F329D84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E382585D-8EF5-4AE3-BD68-7E92488189B5}
+	EndGlobalSection
+EndGlobal
